@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html>
+    {% include header.html %}
+    <body class="right-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header" class="post">
+
+            {% include nav.html %}
+
+				</div>
+
+			<!-- Main -->
+				<div class="wrapper style1">
+
+					<div class="container">
+						<div class="row 200%">
+							<div class="8u 12u(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2><a href="#">{{page.title}}</a></h2>
+										<p>
+                        {{page.excerpt}}
+										</p>
+									</header>
+									<a href="#" class="image featured"><img src="{{site.url}}/img/{{page.featimg}}" alt="" /></a>
+                  {{ content }}
+								</article>
+							</div>
+              <!-- side bar -->
+							<div class="4u 12u(mobile)" id="sidebar">
+								<hr class="first" />
+								<section>
+									<header>
+										<h3><a href="#">Help us raise awereness for Phelan-McDermid Syndrome</a></h3>
+									</header>
+									<p>
+                      Phelan-McDermid Syndrome (also called 22q13.3 Deletion Syndrome) is a rare genetic defect. Across the globe, only around 1600 cases are documented.
+                      We are trying to raise awareness and money that can go into research. Even if 22q13.3 can not be beat, a lot can be done for people suffering from it.
+									</p>
+									<footer>
+										<a href="#" class="button">Learn More</a>
+									</footer>
+								</section>
+								<hr />
+                <section>
+									<header>
+										<h3><a href="#">Keep in touch</a></h3>
+									</header>
+									<p>
+                      If you want to stay up to date with what's going on in Bon Bini's world, subscribe to our email updates!
+									</p>
+                  <p>
+                      <form action="#">
+                          <input name="email" type="text"/>
+                      </form>
+                  </p>
+									<footer>
+										<a href="#" class="button">Subscribe</a>
+									</footer>
+								</section>
+              <hr />
+								<section>
+									<header>
+										<h3>Get inspired</h3>
+									</header>
+									<p>
+                      If you are like us and just can't get enough of the cruising
+                      lifestyle, you might want to follow some of our favorite
+                      websites below.
+									</p>
+									<div>
+										<div>
+											  <h4><a href="http://www.morganscloud.com">Morgan's Cloud</a></h4>
+											<p>
+                          Attainable Cruising is the most comprehensive cruising encyclopedia on the web.
+                      </p>
+										</div>
+									</div>
+									<div>
+										<div>
+											  <h4><a href="http://www.svdelos.com">SV Delos</a></h4>
+											<p>
+                          This is one of the first crew's that I followed online as they cruise the world, very inspiring.
+											</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											  <h4><a href="http://www.la-vagabonde.com">La Vagabonde</a></h4>
+											<p>
+                          Another couple living the cruiser's dream. Follow these two Australians as they sail around the world. 
+											</p>
+										</div>
+									</div>
+									<div>
+										<div>
+											  <h4><a href="http://www.sailfeed.com">Sail Feed</a></h4>
+											<p>
+                          SailFeed is a sailing meta-site, allowing sailors and cruisers to publish their content, and readers to access it all through one, unified website. Nice!
+											</p>
+										</div>
+									</div>
+								</section>
+							</div>
+						</div>
+						<hr />
+            <!-- related posts -->
+						<div class="row">
+                {% for post in site.related_posts limit:3 %}
+							<article class="4u 12u(mobile) special">
+								<a href="{{post.url}}" class="image featured"><img src="{{site.url}}/img/{{post.featimg}}" alt="" /></a>
+								<header>
+									<h3><a href="{{post.url}}">{{post.title}}</a></h3>
+								</header>
+								<p>
+                    {{post.excerpt}}
+								</p>
+							</article>
+                {% endfor %}
+						</div>
+					</div>
+
+				</div>
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+
+								</div>
+						{% include contact.html %}
+					</div>
+				</div>
+
+		</div>
+
+    {% include scripts.html %}
+	</body>
+</html>

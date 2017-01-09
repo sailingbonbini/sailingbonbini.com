@@ -1,0 +1,19 @@
+					    <!-- Nav -->
+						  <nav id="nav">
+							    <ul>
+                      <!--  -->
+							        <li><a href="{{site.url}}/index.html">Home</a></li>
+								      <li>
+									        <a href="#">Posts</a>
+									        <ul>
+                              {% for p in site.posts %}
+										          <li>
+                                  <a href="{{p.url}}">{{p.title}}</a></li>
+                              {% endfor %}
+									        </ul>
+								      </li>
+								<li><a href="{{site.url}}/bonbini.html">Bon Bini</a></li>
+								<li><a href="{{site.url}}/contact.html">Contact</a></li>
+							</ul>
+						</nav>
+
