@@ -2198,6 +2198,7 @@
 			-webkit-transition-delay: 0.5s;
 			-ms-transition-delay: 0.5s;
 			transition-delay: 0.5s;
+
 		}
 
 	body.homepage.is-loading #header:after {
@@ -2231,6 +2232,7 @@
 			-webkit-transition-delay: 0.5s;
 			-ms-transition-delay: 0.5s;
 			transition-delay: 0.5s;
+
 		}
 
 	body.right-sidebar.is-loading #header:after {
@@ -2239,9 +2241,10 @@
 
 
 	body.no-sidebar #header {
-		height: 100vh;
-		min-height: 40em;
-	}
+		height: 20vh;
+		min-height: 8em;
+		background-image: url("../../img/header.jpg");
+ }
 
 	body.no-sidebar #header h1 {
 			font-size: 4em;
@@ -2265,7 +2268,8 @@
 			-webkit-transition-delay: 0.5s;
 			-ms-transition-delay: 0.5s;
 			transition-delay: 0.5s;
-	}
+
+  }
 
 	body.no-sidebar.is-loading #header:after {
 		opacity: 1;
