@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "DeltaLoyd 24 hours race"
+title: "24 Hours "
 date: 2015-10-02 10:12:06 +0100
 keywords: sailing, cruising, sun, ocean, sea, Dufour, lifestyle, relax, enjoy
 author: Tom Doehler, Camilla Ransom
 description:  Follow our experience as we cut the cords and untie the lines, leaving behind the buzz of our busy city lives, and immerse ourselves in a life of sailing, anchoring, boating and generally living a happy cruisers life.
 categories: trips
-excerpt: "Join us for our first racing experience as we join the famous DeltaLloyd 24 hours race ... 24 hours non-stop on the Markermeer and Ijsselmeer."
+excerpt: "Join us for our first regatta as we join the famous DeltaLloyd 24 hours race, sailing the Markermeer and Ijsselmeer."
 featimg: "21044086092_a7b3f3ceb1_k-1140x600.jpg"
 ---
 It all started when Taras and I were chatting over Facebook one day. We were trying to figure out a weekend where we could go sailing together, and - as it usually happens - things were looking rather bleak ... schedules were just insanely busy and did not want to match. At some point during this conversation Taras mentioned that we should join the "Sail around North Holland"-race, and I was immediately intrigued. 

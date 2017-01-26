@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cleaning a Diesel Spill"
+title: "Diesel Spill"
 date: 2017-01-01 10:12:06 +0100
 keywords: sailing, cruising, sun, ocean, sea, Dufour, lifestyle, relax, enjoy
 author: Tom Doehler, Camilla Ransom

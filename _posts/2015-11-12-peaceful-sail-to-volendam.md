@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peaceful sail to Volendamm"
+title: "Volendamm"
 date: 2015-11-12 12:32:06 +0100
 keywords: sailing, cruising, sun, ocean, sea, Dufour, lifestyle, relax, enjoy
 description:  Follow our experience as we cut the cords and untie the lines, leaving behind the buzz of our busy city lives, and immerse ourselves in a life of sailing, anchoring, boating and generally living a happy cruisers life.

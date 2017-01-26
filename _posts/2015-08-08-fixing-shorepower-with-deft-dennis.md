@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fixing shore power with deft Dennis"
+title: "Fixing Shore Power"
 date: 2015-08-08 10:12:06 +0100
 keywords: sailing, cruising, sun, ocean, sea, Dufour, lifestyle, relax, enjoy
 author: Tom Doehler, Camilla Ransom
