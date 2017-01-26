@@ -6,7 +6,7 @@ keywords: sailing, cruising, sun, ocean, sea, Dufour, lifestyle, relax, enjoy
 author: Tom Doehler, Camilla Ransom
 description:  Follow our experience as we cut the cords and untie the lines, leaving behind the buzz of our busy city lives, and immerse ourselves in a life of sailing, anchoring, boating and generally living a happy cruisers life.
 categories: trips
-excerpt: "Bon Bini came with one of those weird power connectors. Dennis comes and helps with fixing the thing."
+excerpt: "Bon Bini came with one of those weird power connectors, old and rusty. Dennis comes and helps with fixing the thing."
 featimg: "19830161213_bfb0fcee4f_o-1140x600.jpg"
 ---
 One of the blessings (or is it a curse?) of owning a sailboat is that there is always something to fix. Even though Bon Bini is in an exceptional shape for her age, there are a few little kickknacks that need some handy work done to them.
